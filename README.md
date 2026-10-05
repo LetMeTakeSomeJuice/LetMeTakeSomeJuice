@@ -1,6 +1,6 @@
 # Hello World 👋
 
-C++ 자료구조를 공부하고 있는 학생입니다.
+응용소프트웨어 공학 전공중인 학생입니다.
 
 ## 🛠 Tech
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
