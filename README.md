@@ -11,7 +11,5 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-## 📚 지금 하는 것
-- 데이터구조: [Data-Structure-Practice1](https://github.com/LetMeTakeSomeJuice/Data-Structure-Practice1)
-
-## 🎮 Roblox 작업물
+## 🎮 Roblox 대표 작업물
+- [MIM-104 Patriot 스타일 기반의 방공 체계](https://github.com/LetMeTakeSomeJuice/Roblox-Showcase-Military)
