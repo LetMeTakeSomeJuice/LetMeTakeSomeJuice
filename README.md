@@ -14,3 +14,4 @@
 ## 🎮 Roblox 대표 작업물
 - [MIM-104 Patriot 스타일 기반의 방공 체계](https://github.com/LetMeTakeSomeJuice/Roblox-Showcase-Military)
 - [파트로만 만든 해양경찰 선박들](https://github.com/LetMeTakeSomeJuice/Roblox-Showcase-CoastGuard)
+- [파트로만 만든 육군 장갑차 모델들](https://github.com/LetMeTakeSomeJuice/Roblox-Showcase-Armor)
