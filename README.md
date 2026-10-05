@@ -1,6 +1,5 @@
 # Hello World 👋
 
-응용소프트웨어 공학 전공중인 학생입니다.
 ## 🛠 MainTech
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=roblox&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat&logo=robloxstudio&logoColor=white)
