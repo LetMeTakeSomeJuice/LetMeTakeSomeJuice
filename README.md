@@ -4,3 +4,4 @@
 
 ## 🎮 Roblox 대표 작업물
 - [MIM-104 Patriot 스타일 기반의 방공 체계](https://github.com/LetMeTakeSomeJuice/Roblox-Showcase-Military)
+- [마라탕 가게에서 알바하기](https://www.roblox.com/games/114248201903688)
